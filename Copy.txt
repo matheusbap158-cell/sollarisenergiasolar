@@ -1,0 +1,116 @@
+COPY DA LANDING PAGE - SOLLARIS ENERGIA SOLAR (Varginha-MG)
+
+Tom: confiável, claro e direto. Linguagem simples, sem jargão técnico e sem promessa de economia em número ou percentual.
+Objetivo único: levar o visitante para o pedido de orçamento no WhatsApp.
+Dados reais usados: Google Maps (nota 4,8 com 6 avaliações, endereço, telefone, "abre às 08:00", 3 avaliações com resposta do dono), Instagram (@sollarisenergiasolar, link da pasta).
+Não usado de propósito: valores de economia, potência, marcas de painel, prazos, preços e número de projetos, porque nada disso foi confirmado.
+Onde o dado não está confirmado, aparece entre colchetes (visível ao abrir o site com ?revisao no final do endereço).
+
+======================================================
+0. TOPO DO SITE
+======================================================
+Logo Sollaris Energia Solar
+Menu: Por que a Sollaris | Como funciona | Avaliações | Orçamento | Onde estamos
+Botão: Pedir orçamento
+
+======================================================
+1. HERO
+======================================================
+Etiqueta: Energia solar em Varginha/MG
+Título: Energia solar com quem cuida de tudo, da venda ao pós-venda
+Subtítulo: Equipe de vendas, instalação e engenharia, e assistência técnica depois que o sistema está no seu telhado. Peça seu orçamento pelo WhatsApp.
+Botão principal: Pedir orçamento no WhatsApp
+Botão secundário: Por que a Sollaris
+Apoio: Sem compromisso. A proposta é feita depois de analisar a sua conta de luz.
+Selos sobre a ilustração: 4,8 no Google, 6 avaliações | Pós-venda, assistência técnica
+
+Faixa de provas:
+- 4,8 | nota no Google (6 avaliações)
+- Vendas + instalação | e engenharia na mesma equipe
+- Assistência técnica | depois da instalação
+- Varginha/MG | R. Uberaba, 96
+
+======================================================
+2. POR QUE A SOLLARIS
+======================================================
+Título: Quem instalou, recomenda
+Subtítulo: O que mais aparece nas avaliações dos clientes no Google.
+Cards:
+- Equipe completa | Vendas, instalação e engenharia falando a mesma língua, do primeiro contato até o sistema funcionando. | "Equipe de vendas, instalação e engenharia competente e honesta." (avaliação no Google)
+- Instalação caprichada | Gente de confiança no seu telhado, que explica o que está fazendo e cuida do acabamento. | "Equipe de confiança, disponível a qualquer momento para te ajudar!" (avaliação no Google)
+- Pós-venda de verdade | A Sollaris diz que o pós-venda é tão importante quanto a venda, e os clientes confirmam. | "A assistência técnica é muito boa, perfeito." (avaliação no Google)
+
+======================================================
+3. COMO FUNCIONA
+======================================================
+Título: Do primeiro contato ao sistema funcionando
+Subtítulo: Quatro passos, com a equipe da Sollaris em cada um. [ETAPAS E PRAZOS A CONFIRMAR COM A EMPRESA]
+1. Você chama no WhatsApp: Conta onde quer instalar e envia o valor médio da conta de luz.
+2. Recebe a proposta: A equipe analisa a sua conta e apresenta a proposta, sem compromisso.
+3. Instalação: A equipe de instalação e engenharia cuida do projeto e da montagem.
+4. Acompanhamento: Depois de instalado, você conta com a assistência técnica da Sollaris.
+Botão: Começar meu orçamento
+
+======================================================
+4. AVALIAÇÕES
+======================================================
+Título: Clientes que economizam e recomendam
+Subtítulo: Avaliações reais do Google, com a resposta da Sollaris.
+Nota: 4,8 | 6 avaliações no Google
+Depoimentos (reais do Google Maps; nomes abreviados):
+1. "Fiz minha instalação de energia fotovoltaica, estou muito satisfeito com a prestação de serviços. A assistência técnica é muito boa, perfeito. Recomendo." Sebastião G. | Resposta: Obrigado Sebastião, para nós o pós-venda é tão importante quanto a venda. A Sollaris está sempre à disposição para melhor lhe atender.
+2. "Melhor coisa que fiz na vida! A Sollaris, equipe de confiança, disponível a qualquer momento para te ajudar! Só tenho a agradecer!" Patrícia M. | Resposta: Como sempre dizemos, Sollaris Energia Solar está a um WhatsApp de distância. Continue curtindo os frutos da economia!
+3. "Empresa de qualidade e excelência. Equipe de vendas, instalação e engenharia competente e honesta." Anderson D.
+Link: Ver todas as avaliações no Google
+
+======================================================
+5. BANDA DE WHATSAPP
+======================================================
+Título: A um WhatsApp de distância (frase da própria Sollaris na resposta a uma avaliação)
+Texto: Conte para a equipe da Sollaris como é a sua conta de luz e descubra o que dá para fazer.
+Botão: Falar com a equipe
+
+======================================================
+6. ORÇAMENTO COM FORMULÁRIO
+======================================================
+Título: Peça seu orçamento em 1 minuto
+Subtítulo: Responda três perguntas rápidas e a conversa já abre no WhatsApp com tudo preenchido.
+Lista: Sem compromisso | Proposta feita a partir da sua conta de luz | Atendimento direto com a equipe da Sollaris
+Campos: Seu nome | Onde instalar (Casa, Comércio, Indústria, Propriedade rural) | Conta de luz por mês (Até R$ 300, De R$ 300 a R$ 700, De R$ 700 a R$ 1.500, Acima de R$ 1.500, Não sei) | Cidade (opcional)
+Botão: Enviar pelo WhatsApp
+Erros: Digite seu nome para a equipe saber com quem está falando. | Escolha onde será a instalação. | Escolha uma faixa, mesmo aproximada.
+Apoio: Sem compromisso. Não enviamos valores de economia sem analisar a sua conta.
+
+======================================================
+7. ONDE ESTAMOS
+======================================================
+Título: Em Varginha, perto de você
+Texto: Venha conhecer a Sollaris ou chame a equipe no WhatsApp.
+Endereço: R. Uberaba, 96 - Nossa Senhora das Graças, Varginha - MG, 37056-270
+Horário: [HORÁRIO COMPLETO A CONFIRMAR. O Google mostra "abre às 08:00"]
+Telefone: (35) 99179-0486
+Instagram: @sollarisenergiasolar
+Botões: Como chegar | Falar no WhatsApp
+
+======================================================
+8. RODAPÉ
+======================================================
+Sollaris Energia Solar | Energia solar em Varginha/MG: vendas, instalação, engenharia e assistência técnica.
+WhatsApp (35) 99179-0486 | Instagram @sollarisenergiasolar | R. Uberaba, 96 - Nossa Senhora das Graças, Varginha - MG, 37056-270
+
+======================================================
+BOTÕES DE WHATSAPP: LINK
+======================================================
+Todos apontam para https://wa.me/5535991790486 (telefone do Google Maps; confirmar se é o WhatsApp de atendimento).
+
+======================================================
+PENDÊNCIAS: CONFIRMAR COM A EMPRESA
+======================================================
+1. Se o (35) 99179-0486 é o WhatsApp de atendimento.
+2. Etapas e prazos reais do atendimento (a seção "Como funciona" é um fluxo padrão do setor).
+3. Horário completo de funcionamento.
+4. Serviços exatos (venda de kits, instalação, projeto, financiamento, usina, manutenção). Hoje o site fala só de vendas, instalação, engenharia e assistência técnica, que vêm das avaliações.
+5. Autorização para citar avaliações e as respostas do dono (nomes estão abreviados).
+6. Fotos reais de instalações e da equipe, para trocar a ilustração do hero.
+7. Logo: confirmar se é a oficial (o arquivo parece ter sido gerado por IA).
+8. Se a frase "equipe de vendas, instalação e engenharia na mesma equipe" descreve bem a empresa (vem de uma avaliação).

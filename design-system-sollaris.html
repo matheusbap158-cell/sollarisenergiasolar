@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design System | Sollaris Energia Solar</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+<style>
+:root{--forest-950:#04251C;--forest-900:#064A38;--forest-700:#0B6B4B;--leaf-500:#4C9A2A;--leaf-100:#E3F1D6;--sun-500:#F8B700;--sun-400:#FFCC33;--sun-100:#FFF3CC;--sand-50:#FBF8EF;--sand-100:#F3EEDF;--sand-200:#E6DFCB;--ink-900:#14261F;--ink-500:#5B6C64;--wa-500:#25D366;--sun-grad:linear-gradient(135deg,#FFCC33,#F8B700 55%,#E8A200)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--sand-50);color:var(--ink-900);font-family:'DM Sans',sans-serif;font-size:17px;line-height:1.65}
+h1,h2{font-family:'Manrope',sans-serif;color:var(--forest-900);margin:0;font-weight:800;letter-spacing:-.02em}
+header{background:var(--forest-950);color:#fff;padding:64px 24px}
+header h1{color:#fff;font-size:clamp(38px,6vw,68px);line-height:1.02}
+header em{font-style:normal;color:var(--sun-400)}
+header p{color:#B7CFC4;max-width:40rem;margin:16px 0 0}
+.wrap{max-width:1000px;margin:0 auto}
+section{padding:56px 24px;border-bottom:1px solid var(--sand-200)}
+h2{font-size:36px;margin-bottom:22px}
+.sw{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.sw div{border-radius:14px;overflow:hidden;border:1px solid var(--sand-200);background:#fff;font-size:13.5px}
+.sw i{display:block;height:74px}
+.sw span{display:block;padding:8px 10px;line-height:1.35}
+.sw b{display:block;font-weight:600}
+.btns{display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+.btn{display:inline-flex;align-items:center;min-height:54px;padding:10px 28px;border-radius:14px;font-family:'Manrope',sans-serif;font-weight:700;border:2px solid transparent}
+.b-wa{background:var(--wa-500);color:#052E16}.b-sun{background:var(--sun-grad);color:var(--forest-950)}.b-line{border-color:var(--forest-900);color:var(--forest-900)}
+.t1{font-family:'Manrope',sans-serif;font-size:60px;line-height:1.02;font-weight:800;color:var(--forest-900);letter-spacing:-.02em}
+.t1 em{font-style:normal;background:var(--sun-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.card{background:#fff;border:1px solid var(--sand-200);border-radius:22px;padding:26px;max-width:340px}
+.card .ic{width:52px;height:52px;border-radius:16px;background:var(--sun-100);margin-bottom:14px}
+.card q{display:block;border-left:3px solid var(--sun-500);background:var(--sand-50);padding:12px 14px;border-radius:0 12px 12px 0;font-size:15px;quotes:none;margin-top:12px}
+.sun{width:130px;height:130px;border-radius:50%;background:radial-gradient(circle at 38% 34%,#FFE58A,#FFCC33 40%,#F8B700 72%,#E8A200);box-shadow:0 0 0 14px rgba(255,204,51,.18),0 0 0 34px rgba(255,204,51,.1);margin:34px}
+.dark{background:var(--forest-950);border-radius:20px;display:inline-block}
+code{background:var(--sand-100);padding:2px 6px;border-radius:4px;font-size:14px}
+</style>
+</head>
+<body>
+<header><div class="wrap"><h1>Sollaris <em>Energia Solar</em></h1><p>Energia limpa, confiável e acessível: verde-floresta de marca, amarelo-sol de destaque e fundo areia quente.</p></div></header>
+
+<section><div class="wrap"><h2>Cores</h2>
+<div class="sw">
+<div><i style="background:#04251C"></i><span><b>forest-950</b>#04251C<br>seções escuras</span></div>
+<div><i style="background:#064A38"></i><span><b>forest-900</b>#064A38<br>títulos e logo</span></div>
+<div><i style="background:#0B6B4B"></i><span><b>forest-700</b>#0B6B4B<br>rótulos e links</span></div>
+<div><i style="background:#4C9A2A"></i><span><b>leaf-500</b>#4C9A2A<br>destaque em título</span></div>
+<div><i style="background:#E3F1D6"></i><span><b>leaf-100</b>#E3F1D6<br>resposta da empresa</span></div>
+<div><i style="background:#F8B700"></i><span><b>sun-500</b>#F8B700<br>destaque</span></div>
+<div><i style="background:#FFCC33"></i><span><b>sun-400</b>#FFCC33<br>destaque sobre escuro</span></div>
+<div><i style="background:#FFF3CC"></i><span><b>sun-100</b>#FFF3CC<br>fundo de ícones</span></div>
+<div><i style="background:#FBF8EF"></i><span><b>sand-50</b>#FBF8EF<br>fundo da página</span></div>
+<div><i style="background:#25D366"></i><span><b>wa-500</b>#25D366<br>só botão de WhatsApp</span></div>
+</div>
+<p style="margin-top:16px;color:var(--ink-500)">A marca é verde e o WhatsApp também. Por isso a marca usa verdes escuros e o amarelo de acento, e o verde vivo fica só no botão de conversão.</p></div></section>
+
+<section><div class="wrap"><h2>Tipografia</h2>
+<p class="t1">Energia solar com quem <em>cuida de tudo</em></p>
+<p><b>Manrope</b> 700/800 nos títulos e <b>DM Sans</b> no corpo. Etiquetas em maiúsculas com espaçamento de 0.14em.</p></div></section>
+
+<section><div class="wrap"><h2>Botões</h2>
+<div class="btns"><span class="btn b-wa">Pedir orçamento no WhatsApp</span><span class="btn b-sun">Começar meu orçamento</span><span class="btn b-line">Por que a Sollaris</span></div></div></section>
+
+<section><div class="wrap"><h2>Card e sol</h2>
+<div class="btns" style="align-items:flex-start;gap:30px"><div class="card"><div class="ic"></div><b style="font-family:'Manrope';font-size:22px">Pós-venda de verdade</b><q>"A assistência técnica é muito boa, perfeito."</q></div><div class="dark"><div class="sun"></div></div></div>
+<p style="margin-top:16px;color:var(--ink-500)">O sol com halo e a ilustração de painel em perspectiva substituem fotos no hero até haver fotos reais de instalação.</p></div></section>
+
+<section style="border:0"><div class="wrap"><h2>Regras</h2>
+<p>Um CTA por dobra. Sem promessa de economia nem valores. Depoimentos reais do Google com nomes abreviados. Animações desligadas com <code>prefers-reduced-motion</code>.</p></div></section>
+</body>
+</html>
